@@ -31,27 +31,27 @@ available in the proceedings, on the web via Synopsys SolvIt.
 ## PAPER OUTLINE
 
 1. Motivation
-   a. too much output
-   b. failure to check
-   c. poor makefile interaction
-   d. lack of context
-   e. need for exception handling
+   1. too much output
+   2. failure to check
+   3. poor makefile interaction
+   4. lack of context
+   5. need for exception handling
 2. Example(s)
-   a. errors & warnings
-   b. expected & fatals
-   c. overrides & ignores
+   1. errors & warnings
+   2. expected & fatals
+   3. overrides & ignores
 3. How it works
-   a. multiple line scanning
-   b. contextual output
-   c. configurable error classifications
-   d. exit conditions
+   1. multiple line scanning
+   2. contextual output
+   3. configurable error classifications
+   4. exit conditions
 4. Usage
-   a. manual
-   b. makefiles
+   1. manual
+   2. makefiles
 5. Configuration
-   a. general
-   b. Synopsys specific
-   c. Project specific
+   1. general
+   2. Synopsys specific
+   3. Project specific
 
 See INSTALLATION for notes on how to install.
 

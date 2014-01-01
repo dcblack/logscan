@@ -1,8 +1,9 @@
-LOGSCAN: A Configurable Error Management Utility
+# LOGSCAN: A Configurable Error Management Utility
 
-Copyright 1997-2001,2008 by David C. Black. All rights reserved.
+Copyright 1997-2001,2008,2013 by David C. Black. All rights reserved.
 
-ABSTRACT:
+## ABSTRACT:
+
 A common problem facing most EDA tools users is how to filter through 
 hundreds of lines of EDA tool output and quickly focus on the important 
 information. Tools such as Synopsys Design Compiler or Quad Design Motive 
@@ -21,13 +22,14 @@ With the above framework in mind, I developed tools over the years that
 address this very issue. The remainder of the paper demonstrates a 
 successful solution implemented with PERL. The script itself, 
 independently developed, made available as charity-ware via the Internet
-the EDA community via the HLD Wizard Web site <http://www.hldwizard.com>.
+the EDA community via the GiHub site <https://github.com>.
 
 A paper with the above abstract was presented at the North America Synopsys
 User's Group (SNUG) annual conference in San Jose. The paper is available
 in the proceedings, on the web via SolvIt.
 
-PAPER OUTLINE:
+## PAPER OUTLINE
+
  1. Motivation
    a. too much output
    b. failure to check
@@ -54,4 +56,4 @@ PAPER OUTLINE:
 See INSTALLATION for notes on how to install.
 
 LOGSCAN may be obtained as CharityWare over the web via the URL:
-<http://www.hldwizard.com/logscan.tar.gz>
+<https://github.com/dcblack/logscan/archive/master.zip>
